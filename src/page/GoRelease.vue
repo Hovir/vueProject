@@ -64,7 +64,7 @@ export default {
       userId: '',
       userNickname: '',
       uploadData: {
-        dynamic: 'dynamic'
+        folder: 'dynamic'
       }
     }
   },
